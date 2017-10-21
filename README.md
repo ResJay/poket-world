@@ -1,5 +1,6 @@
 # poket-world
 想念小时候的宠物小精灵
+(下载下来直接运行 因为跨源事件 所以只支持火狐QAQ)
 #### 界面
 ![](https://raw.githubusercontent.com/ResJay/poket-world/master/GIF.gif)
 #### 设计系统
